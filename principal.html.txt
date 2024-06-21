@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Título de tu página</title>
+    <!-- Enlace al archivo CSS externo -->
+    <link rel="stylesheet" href="miestilo.css">
+    <!-- Estilo interno para el párrafo -->
+    <style>
+        p {
+            color:rgb(1, 71, 1)
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src= "C:\Users\--  USUARIO  --\Desktop\talentos digitales\modulo 2\ProT1_4150818\WhatsApp Image 2024-05-23 at 23.20.36.jpeg" alt="fondo tematico">
+        ¡Bienvenidos!
+        <!-- Contenido del encabezado -->
+    </header>
+    <nav> 
+       <ul>
+        <img src= "C:\Users\--  USUARIO  --\Desktop\talentos digitales\modulo 2\ProT1_4150818\Logo.png" alt="logo de la empresa">
+        <li class="sombra">HOME</li>
+        <li class="sombra"> QUIENES SOMOS </li>
+        <li class="sombra">FORMULARIO DE REGISTRO</li>
+        <li class="sombra"> <a href="https://talentosdigitales.ar/"> TALENTOS DIGITALES </a>
+        </li>
+       </ul> 
+        
+    </nav>
+    <section>
+        <!-- Contenido de la sección principal -->
+    </section>
+    <div class="div1">
+        <!-- Contenido dentro de la división -->
+    <p class="destacado"> Somos una marca apasionada por vestir a los más pequeños con estilo, comodidad y calidad. 
+        Nos dedicamos a diseñar y fabricar prendas de vestir para niños y niñas, con un enfoque especial 
+        en la creatividad, la originalidad y la seguridad.</p>
+    <p> Explora nuestra tienda en línea y descubre una amplia gama de prendas, desde adorables conjuntos 
+        para el día a día hasta elegantes outfits para ocasiones especiales. 
+        Además, mantente al tanto de nuestras últimas novedades y promociones exclusivas a través de nuestras redes
+         sociales. </p>    
+</div>
+<footer>
+<ul>
+    <li class="sombra"> <a href="https://www.instagram.com/"> <img src= https://img.icons8.com/?size=100&id=32323&format=png&color=000000></a>
+</ul>
+    <!-- Contenido del pie de página -->
+</footer>
+</body>
+
+</html>
